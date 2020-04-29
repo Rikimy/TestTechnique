@@ -2,5 +2,24 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars cucumber/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars cucumber/cucumber-core-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars cucumber/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars cucumber/cucumber-java-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars cucumber/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars cucumber/cucumber-java-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars cucumber/cucumber-junit-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars cucumber/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars cucumber/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars cucumber/cucumber-picocontainer-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars cucumber/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars cucumber/cucumber-testng-5.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars cucumber/junit-4.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars cucumber/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars Selenium/selenium-html-runner-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars Selenium/selenium-server-standalone-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars Selenium/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars Selenium/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
