@@ -21,5 +21,9 @@
 	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars Selenium/selenium-server-standalone-3.9.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars Selenium/selenium-java-3.141.59/client-combined-3.141.59.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars Selenium/selenium-java-3.141.59/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars Selenium/testng-7.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars cucumber/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars cucumber/webdrivermanager-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Rikimy/Desktop/TestTechnique/TestTechnique/Jars cucumber/allure-testng-2.13.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
